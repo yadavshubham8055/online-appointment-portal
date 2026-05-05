@@ -1,17 +1,13 @@
 # Online Appointment Management Portal
 
-Mini web app for booking doctor appointments.
+Mini web application for doctor appointment booking.
 
-## Tech Stack
-- React
-- JavaScript
-- localStorage
+## Features
+doctor list
+appointment booking
+form validation
+local storage
 
 ## Run
-
-npm install  
+npm install
 npm run dev
-
-## Time Spent
-
-4 hours
